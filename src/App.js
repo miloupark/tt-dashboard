@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Route, Routes } from "react-router-dom";
+import { Route, HashRouter as Router } from 'react-router-dom'
 import Home from './pages';
 import { ChakraProvider, CSSReset } from '@chakra-ui/react';
 import GlobalStyles from './assets/styles/GlobalStyles.styles';
@@ -15,14 +15,14 @@ function App() {
         <ChakraProvider theme={theme}>
             <CSSReset />
             <GlobalStyles />
-            <Routes>
+            <Router>
                 <Route path="/" element={<Home />} />
                 <Route path="/marketplace" element={<MarketPlace />} />
                 <Route path="/tables" element={<Tables />} />
                 <Route path="/kanban" element={<Kanban />} />
                 <Route path="/profile" element={<Profile />} />
                 <Route path="/signin" element={<SignIn />} />
-            </Routes>
+            </Router>
         </ChakraProvider>
     );
 }
