@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/tt-dashboard/static/css/main.e6c13ad2.css",
-    "main.js": "/tt-dashboard/static/js/main.2e9b4a2e.js",
+    "main.js": "/tt-dashboard/static/js/main.1d2c2b5d.js",
     "static/js/787.545aecf5.chunk.js": "/tt-dashboard/static/js/787.545aecf5.chunk.js",
     "static/media/android.svg": "/tt-dashboard/static/media/android.4cf2d04ecf4c2a3d2e84aa7d03493f53.svg",
     "index.html": "/tt-dashboard/index.html",
     "static/media/apple.svg": "/tt-dashboard/static/media/apple.e32afc03669f2e1d7e1b97c8b344ff6d.svg",
     "static/media/windows.svg": "/tt-dashboard/static/media/windows.ce2e79e89dff91fb6eae286e570d64a0.svg",
     "main.e6c13ad2.css.map": "/tt-dashboard/static/css/main.e6c13ad2.css.map",
-    "main.2e9b4a2e.js.map": "/tt-dashboard/static/js/main.2e9b4a2e.js.map",
+    "main.1d2c2b5d.js.map": "/tt-dashboard/static/js/main.1d2c2b5d.js.map",
     "787.545aecf5.chunk.js.map": "/tt-dashboard/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.2e9b4a2e.js"
+    "static/js/main.1d2c2b5d.js"
   ]
 }
